@@ -12,3 +12,5 @@ To run this project, you will need to have Python 3.7 or higher installed on you
 * statsmodels
 * yfinance
 * scipy
+* sensitivity
+* dataclasses
