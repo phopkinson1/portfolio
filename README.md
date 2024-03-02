@@ -14,3 +14,4 @@ To run these projects, you will need to have Python 3.7 or higher installed on y
 * scipy
 * sensitivity
 * dataclasses
+* tensorflow
